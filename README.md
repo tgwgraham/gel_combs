@@ -11,3 +11,6 @@ These are compatible with Novex 1.5 mm cassettes (product #NC2015). They also wo
 # Agarose gel combs
 - 26well_comb: agarose gel comb with 4.5 mm spacing between wells. Suitable for loading every other well using a multi-channel pipette.
 
+# Useful SDS-PAGE protocols
+- BisTrisSdsPage_CC.doc - from Claudia Cattoglio
+- Fluorescent_gel_cell_lysates_TG.docx - modified from Cattoglio et al., 2019 [https://elifesciences.org/articles/40164](https://elifesciences.org/articles/40164)
